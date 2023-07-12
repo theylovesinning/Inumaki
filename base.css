@@ -1,11 +1,11 @@
 .app-2rEoOp {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://i.imgur.com/dl5utiy.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://i.imgur.com/ae6KPEb.png);
   background-size: cover;
   border: 1px;
 }
 
 .standardSidebarView-3F1I7i {
-  background-image: url(https://i.imgur.com/dl5utiy.jpg);
+  background-image: url(https://i.imgur.com/ae6KPEb.png);
   background-size: cover;
 }
 
@@ -2538,7 +2538,7 @@ svg.homeIcon-FuNwkv{
     color:transparent;
 }
 .homeIcon-FuNwkv{
-    background-image: url("https://i.imgur.com/1557zBq.png");
+    background-image: url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg");
     background-size: cover;
     background-position: center;
 }
